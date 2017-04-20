@@ -1,0 +1,19 @@
+h1{
+	font-size: 100px;
+	color: white;
+}
+#id{
+	font-size:80px;
+	color: red;
+}
+#all{
+	font-size: 80px;
+	color: blue;
+}
+img{
+	height: 250px;
+	width: auto;
+}
+body{
+	background-image: url("idk.jpg");
+}
